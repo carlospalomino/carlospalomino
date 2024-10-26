@@ -1,7 +1,8 @@
 <div align="center">
   
 ## About
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+Hello,
+I am a Project Manager, Scrum Master, Senior Programmer, and university professor in Peru. I am passionate about creating innovative solutions that simplify the lives and work of others.
 
 -------------------
 
